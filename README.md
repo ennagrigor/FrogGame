@@ -1,5 +1,5 @@
 # gamedev-week 06-Q3 making a core process of a game
-Contains all the third question answers from lesson 5 homework + the phisical borders from Q2 (yellow circles): [gamedev-5780](https://github.com/erelsgl-at-ariel/gamedev-5780)
+Contains all the third question answers from lesson 5 homework + the physical borders from Q2 (yellow circles): [gamedev-5780](https://github.com/erelsgl-at-ariel/gamedev-5780)
 
 The purpose of the game is to get the player (the green cube) to the finish line.
 
