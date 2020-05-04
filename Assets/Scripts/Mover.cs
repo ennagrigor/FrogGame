@@ -9,7 +9,7 @@ public class Mover : MonoBehaviour
 {
     [SerializeField] private float _speed = 3.5f;
     [SerializeField] private int _lives = 3;
-    public bool finish = false;
+    
 
     // Start is called before the first frame update
     void Start()
