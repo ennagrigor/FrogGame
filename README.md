@@ -57,4 +57,5 @@ It also has Three main functions:
 The obsticles are objects that are also made as prefabs and make the game a little harder.
 The player can't go through the obsticles and therefor they have to go around (phsical borders).
 
-<img src="Images/q4.1.png" width=400> <img src="Images/q4.2.png" width=400>
+## Link
+link to the game in [itch.io](https://ennagrigor.itch.io/frogjumpbasicfunctions)
