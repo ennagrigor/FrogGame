@@ -11,7 +11,7 @@ The purpose of the game is to get the player (the green cube) to the finish line
 
 <img src="https://github.com/ennagrigor/FrogGame/blob/master/Screenshot_1.png" width=400>
 
-# objects in game:
+# Objects in game:
 
 ## The player (frog):
 The player has a Mover class that is responsible for functions of the player 
